@@ -1,4 +1,4 @@
-class Leetcode_88 {
+class MergeSortedArray_88 {
     public static  void merge(int[] nums1, int m, int[] nums2, int n) {
         
         int p1 = m - 1;         // Last valid index in nums1
